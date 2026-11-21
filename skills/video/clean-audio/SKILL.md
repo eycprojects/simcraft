@@ -1,6 +1,6 @@
 ---
 name: clean-audio
-description: Clean up voice audio in a video: rumble, electrical hum, background noise and hiss, muddy or harsh tone, sharp S sounds, uneven volume, and loudness for YouTube/Instagram/TikTok. Measures the audio first, picks the strongest cleanup that doesn't make the words less clear, and keeps lip sync exact. Use when the user says "clean up the audio", "fix the sound", "remove background noise", "remove hum", "my audio is too quiet/loud", "make it sound better", or after a rough cut.
+description: 'Clean up voice audio in a video: rumble, electrical hum, background noise and hiss, muddy or harsh tone, sharp S sounds, uneven volume, and loudness for YouTube/Instagram/TikTok. Measures the audio first, picks the strongest cleanup that doesn''t make the words less clear, and keeps lip sync exact. Use when the user says "clean up the audio", "fix the sound", "remove background noise", "remove hum", "my audio is too quiet/loud", "make it sound better", or after a rough cut.'
 ---
 
 # Clean audio

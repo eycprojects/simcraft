@@ -1,6 +1,6 @@
 ---
 name: teach-back
-description: Find out what the user actually understands about a topic by having them explain it back (the Feynman technique), then probe the gaps one question at a time and end with a one-page cheat sheet and spaced review questions. Works for anything they are studying or have just read, watched or built: a paper, a course, a codebase, an interview topic, a concept. Use when the user says "quiz me", "test my understanding", "help me study", "I'm preparing for an interview on X", "did I get this right", or "make me a cheat sheet".
+description: 'Find out what the user actually understands about a topic by having them explain it back (the Feynman technique), then probe the gaps one question at a time and end with a one-page cheat sheet and spaced review questions. Works for anything they are studying or have just read, watched or built: a paper, a course, a codebase, an interview topic, a concept. Use when the user says "quiz me", "test my understanding", "help me study", "I''m preparing for an interview on X", "did I get this right", or "make me a cheat sheet".'
 ---
 
 # Teach back
