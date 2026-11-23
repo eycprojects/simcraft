@@ -24,7 +24,7 @@ def _save(img, path, texts):
         script = ppm + ".txt"
         with open(script, "w") as f:
             f.write(",\n".join(vf))
-        args += ["-filter_script:v", script]
+        args += ["-/filter:v", script]  # ffmpeg 7+ form; -filter_script was removed
     q = ["-q:v", "3"] if str(path).lower().endswith((".jpg", ".jpeg")) else []
     try:
         run(args + q + ["-frames:v", "1", "-update", "1", str(path)])
